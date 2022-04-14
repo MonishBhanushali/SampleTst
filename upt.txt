@@ -1,2 +1,6 @@
 the file have a code this is 1st line
 this is 2nd line
+
+the data in this file is added in 2nd commit
+the new data 
+
